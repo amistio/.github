@@ -17,10 +17,9 @@ People miss renewals and cancellation windows because contracts fade into the ba
 
 ## Security
 
-If you believe you’ve found a security issue, please email **security@amistio.com**.  
+If you believe you’ve found a security issue, please email **hello@amistio.com**.  
 Please don’t open public issues for vulnerabilities.
 
 ## Contact
 
 - General: **hello@amistio.com**
-- Security: **security@amistio.com**
